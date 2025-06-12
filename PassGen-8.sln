@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36105.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassGen-8", "PassGen-8.csproj", "{C7BF58AF-7739-4272-8A03-F1758C8ECCF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BF58AF-7739-4272-8A03-F1758C8ECCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BF58AF-7739-4272-8A03-F1758C8ECCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BF58AF-7739-4272-8A03-F1758C8ECCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BF58AF-7739-4272-8A03-F1758C8ECCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D274D4D-79BD-4802-8535-DE8561CEC1AD}
+	EndGlobalSection
+EndGlobal

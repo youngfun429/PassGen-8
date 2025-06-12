@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2022\PassGen-8\bin\Release\net8.0-windows\publish\PassGen-8.exe
+D:\Documents\Visual Studio 2022\PassGen-8\bin\Release\net8.0-windows\publish\PassGen-8.dll
+D:\Documents\Visual Studio 2022\PassGen-8\bin\Release\net8.0-windows\publish\PassGen-8.deps.json
+D:\Documents\Visual Studio 2022\PassGen-8\bin\Release\net8.0-windows\publish\PassGen-8.runtimeconfig.json
+D:\Documents\Visual Studio 2022\PassGen-8\bin\Release\net8.0-windows\publish\PassGen-8.pdb
